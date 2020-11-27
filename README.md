@@ -9,8 +9,8 @@ Method used = beginner's Method (Sometimes intermediate method if I can easily s
 #### Solved times
 Solve Time | Date
 --------------------
-cell 1     | cell 1
-cell 2     | cell 2
+cell 1     | cell 1<br>
+cell 2     | cell 2<br>
 
 #### Solved times (Listed Best to worst)
 1. time 1
