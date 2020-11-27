@@ -6,5 +6,12 @@ No prior Cubing experience<br>
 - [x] Can I solve it yet?<br><br>
 Method used = beginner's Method (Sometimes intermediate method if I can easily see it)<br><br>
 
-#### Solved times (Best to worst)
-1. (Time to solve) - (Date)
+#### Solved times
+(Time to solve) | (Date)
+------------------------
+time 1 | Date 1
+time 2 | Date 2
+
+#### Solved times (Listed Best to worst)
+1. time 1
+2. time 2
