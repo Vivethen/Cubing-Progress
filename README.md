@@ -1,6 +1,8 @@
 ### Cubing-Progress
 
 ### Type of Cube
-##### Pyraminx
+##### Pyramix Duo
+No prior Cubing experience<br>
+
 - [ ] Can I solve it yet?
 Method used = ?
