@@ -1,4 +1,4 @@
-### Cubing-Progress
+## Cubing-Progress
 
 ### Type of Cube
 ##### Pyramix Duo
