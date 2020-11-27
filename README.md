@@ -4,5 +4,5 @@
 ##### Pyramix Duo
 No prior Cubing experience<br>
 
-- [ ] Can I solve it yet?
+- [ ] Can I solve it yet?<br>
 Method used = ?
