@@ -6,7 +6,7 @@ No prior Cubing experience<br>
 - [x] Can I solve it yet?<br><br>
 Method used = beginner's Method (Sometimes intermediate method if I can easily see it)<br><br>
 
-### Solved times
+## Solved times
 (Solve Time) - (Date)
 
 
