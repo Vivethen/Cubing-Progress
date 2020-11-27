@@ -5,4 +5,4 @@
 No prior Cubing experience<br>
 
 - [ ] Can I solve it yet?<br><br>
-Method used = ?
+Method used = beginner's Method (Sometimes intermediate method if I can easily see it)
