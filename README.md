@@ -7,11 +7,9 @@ No prior Cubing experience<br>
 Method used = beginner's Method (Sometimes intermediate method if I can easily see it)<br><br>
 
 #### Solved times
-Solve Time | Date
---------------------
-cell 1     | cell 1<br>
-cell 2     | cell 2<br>
+(Solve Time) - (Date)
 
-#### Solved times (Listed Best to worst)
+
+#### Best Solved times
 1. time 1
 2. time 2
