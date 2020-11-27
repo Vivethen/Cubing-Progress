@@ -1,6 +1,4 @@
 ## Cubing-Progress
-theme: kaban
-
 ### Type of Cube
 ##### Pyramix Duo
 No prior Cubing experience<br>
