@@ -15,7 +15,7 @@ Method used = beginner's Method (Sometimes intermediate method if I can easily s
 11.428 - 11:37 Wensday Dec 9 2020<br>
 16.965 - 11.39 Wensday Dec 9 2020<br>
 8.278  - 11:40 Wensday Dec 9 2020<br>
-<br>
+<br><br>
 ### Best Solved times
 1. 8.278
 2. 10.655
@@ -23,12 +23,12 @@ Method used = beginner's Method (Sometimes intermediate method if I can easily s
 4. 12.337
 5. 12.555
 6. 16.965
-<br>
-##  Average Solve times
+<br><br>
+## Average Solve times
 12.036
-<br>
-###  Techniques learned to improve solve times
-* Learned how to have more fluent motion when rotating the cube
-* Faced the side I would solve infront of me so I know what to do before I actually solve
-* Practiced a good amount before actually time myself to get muscle memory involved
-* Tried finding and using my own technique to go along with the one I learned
+<br><br>
+### Techniques learned to improve solve times
+* Learned how to have more fluent motion when rotating the cube<br>
+* Faced the side I would solve infront of me so I know what to do before I actually solve<br>
+* Practiced a good amount before actually time myself to get muscle memory involved<br>
+* Tried finding and using my own technique to go along with the one I learned<br>
