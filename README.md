@@ -24,10 +24,10 @@ Method used = beginner's Method (Sometimes intermediate method if I can easily s
 5. 12.555
 6. 16.965
 <br>
-## Average Solve times
+##  Average Solve times
 12.036
 <br>
-### Techniques learned to improve solve times
+###  Techniques learned to improve solve times
 * Learned how to have more fluent motion when rotating the cube
 * Faced the side I would solve infront of me so I know what to do before I actually solve
 * Practiced a good amount before actually time myself to get muscle memory involved
