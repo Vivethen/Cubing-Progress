@@ -6,6 +6,10 @@ Cubing Goal: Solve under 10 seconds<br><br>
 
 - [x] Can I solve it yet?<br><br>
 Method used = beginner's Method (Sometimes intermediate method if I can easily see it)<br><br>
+#### Sources:
+* [How to Solve the Pyraminx Duo, Beginner Method](https://www.youtube.com/watch?v=xB9OFNyi-Uk&feature=emb_logo)<br>
+* [How to Solve the Pyraminx Duo, Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_logo)<br>
+* [Pyraminx Duo Advanced Method Tutorial, Optimal Moves](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_logo)<br><br>
 
 ## Solved times
 (Solve Time) - (Date)<br>
