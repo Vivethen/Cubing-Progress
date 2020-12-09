@@ -24,7 +24,7 @@ Method used = beginner's Method (Sometimes intermediate method if I can easily s
 5. 12.555
 6. 16.965
 <br>
-## Average Solve time
+## Average Solve times
 12.036
 <br>
 ### Techniques learned to improve solve times
